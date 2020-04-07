@@ -1,0 +1,1 @@
+[{string: fesfes; palindrom: Nie}]
